@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @savitaanuj4
+- 👋 Hi, I’m Anuj Savita
 - 👀 I’m interested in software developement
 - ✨ My primary programming language is Python
 - 🌱 I have strong knowledge Data Structures, Algorithms and Django
